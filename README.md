@@ -3,7 +3,9 @@
 This platform enables users to solve programming exercises online with real-time automatic code evaluation. Designed with scalability and modularity in mind, it integrates a serverless backend with a modern web frontend to provide a seamless user experience for learning and practicing algorithms and data structures.
 
 ---
-
+Itan Gabriel Ramirez Miramontes 
+Fecha de inicio: 03 de Junio del 2025
+---
 ## 🧩 Features
 
 - ✅ Solve coding exercises directly in the browser
@@ -36,8 +38,4 @@ This platform enables users to solve programming exercises online with real-time
 - **Containers:** Docker
 - **Scalability (optional):** Kubernetes-ready
 - **Version Control:** Git (GitHub)
-
----
-
-## 📁 Project Structure
 
