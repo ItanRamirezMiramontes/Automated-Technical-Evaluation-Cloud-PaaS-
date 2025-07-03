@@ -4,6 +4,7 @@ This platform enables users to solve programming exercises online with real-time
 
 ---
 Itan Gabriel Ramirez Miramontes 
+
 Fecha de inicio: 03 de Junio del 2025
 ---
 ## 🧩 Features
